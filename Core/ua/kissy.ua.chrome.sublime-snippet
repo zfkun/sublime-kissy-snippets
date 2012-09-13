@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KISSY.UA.chrome]]></content>
+	<tabTrigger>kissy.ua.chrome</tabTrigger>
+	<description>KISSY.UA.chrome</description>
+	<scope>source.js</scope>
+</snippet>
