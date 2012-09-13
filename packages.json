@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.0",
+	"packages": [
+		{
+			"name": "KISSY Snippets",
+			"description": "KISSY API Snippets for Sublime Text",
+			"author": "zfkun <zfkun@msn.com>",
+			"homepage": "https://github.com/zfkun/sublime-kissy-snippets",
+			"last_modified": "2012-09-14 00:18:00",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.0",
+						"url": "https://github.com/zfkun/sublime-kissy-snippets/zipball/master"
+					}
+				]
+			}
+		},
+	]
+}
