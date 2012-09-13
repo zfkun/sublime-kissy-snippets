@@ -1,4 +1,4 @@
-This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for doing KISSY development.
+This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for doing [KISSY][kissy] development.
 
 ## Installation ##
 
@@ -17,3 +17,4 @@ If you haven't got Package Control installed (seriously, go install it!) you wil
 
 [sublime]: http://www.sublimetext.com/
 [package_control]: http://wbond.net/sublime_packages/package_control
+[kissy]: https://github.com/kissyteam/kissy
