@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+// Deprecated since version 1.2
+KISSY.app(${1:name}${2:, ${3:sx}});$0
+]]></content>
+	<tabTrigger>kissy.app</tabTrigger>
+	<description>KISSY.app(name[,sx])</description>
+	<scope>source.js</scope>
+</snippet>

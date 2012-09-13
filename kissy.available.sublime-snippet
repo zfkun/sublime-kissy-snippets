@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[KISSY.available(${1:elementId}${2:, ${3:function() {
+	$0
+\}}});]]></content>
+	<tabTrigger>kissy.available</tabTrigger>
+	<description>KISSY.available(id,fn)</description>
+	<scope>source.js</scope>
+</snippet>

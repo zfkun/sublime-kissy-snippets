@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+KISSY.use(${1:'${2:depMod1}'}${3:, ${4:function(${5:S}, ${6:DepMod1}, ${7:undefined}) {
+	${8:'use strict';}
+	${0:// your code here}
+\}}});
+]]></content>
+	<tabTrigger>kissy.use</tabTrigger>
+	<description>KISSY.use(mods[,fn])</description>
+	<scope>source.js</scope>
+</snippet>

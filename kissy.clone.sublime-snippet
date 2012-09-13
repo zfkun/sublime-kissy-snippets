@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+KISSY.clone(${1:obj}${2:, function(${3:val}${4:, ${5:key}}){
+	${6:return ${7:true};}
+}});$0
+]]></content>
+	<tabTrigger>kissy.clone</tabTrigger>
+	<description>KISSY.clone(o[,filter])</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[KISSY.ready(${1:function() {
+	$0
+\}});]]></content>
+	<tabTrigger>kissy.ready</tabTrigger>
+	<description>KISSY.ready(fn)</description>
+	<scope>source.js</scope>
+</snippet>

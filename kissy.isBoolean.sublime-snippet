@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KISSY.isBoolean(${1:obj});$0]]></content>
+	<tabTrigger>kissy.isBoolean</tabTrigger>
+	<description>KISSY.isBoolean(obj)</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KISSY.parseXML(${1:str});$0]]></content>
+	<tabTrigger>kissy.parseXML</tabTrigger>
+	<description>KISSY.parseXML(str)</description>
+	<scope>source.js</scope>
+</snippet>

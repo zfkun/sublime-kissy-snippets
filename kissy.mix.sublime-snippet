@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+KISSY.mix(${1:receiver}, ${2:supplier}${3:, true}${4:, []}${5:, false});$0
+]]></content>
+	<tabTrigger>kissy.mix</tabTrigger>
+	<description>KISSY.mix(receiver, supplier[, overwrite=true, whitelist, deep])</description>
+	<scope>source.js</scope>
+</snippet>

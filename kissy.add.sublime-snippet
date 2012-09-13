@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+KISSY.add('${1:package/mod}', function(${2:S}, undefined) {
+	${10:'use strict';}
+
+	${0:// your module code here}
+
+}${3:, ${4:{ ${5:attach: ${6:true}}${7:, requires: [${9:other/mod}]} \}}});
+]]></content>
+	<tabTrigger>kissy.add</tabTrigger>
+	<scope>source.js</scope>
+	<description>KISSY.add(mod,fn[,config])</description>
+</snippet>

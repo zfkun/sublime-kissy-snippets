@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KISSY.inArray(${1:value}, ${2:array});$0]]></content>
+	<tabTrigger>kissy.inArray</tabTrigger>
+	<description>KISSY.inArray(val,arr)</description>
+	<scope>source.js</scope>
+</snippet>
