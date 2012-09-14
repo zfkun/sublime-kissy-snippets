@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasProp(${1:selector}, ${2:name})$0]]></content>
+	<tabTrigger>hasProp</tabTrigger>
+	<description>KISSY.DOM.hasProp(selector,name)</description>
+	<scope>source.js</scope>
+</snippet>

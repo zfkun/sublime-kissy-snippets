@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[KISSY.UA]]></content>
+	<content><![CDATA[${1:KISSY}.UA]]></content>
 	<tabTrigger>kissy.ua</tabTrigger>
 	<description>KISSY.UA</description>
 	<scope>source.js</scope>
