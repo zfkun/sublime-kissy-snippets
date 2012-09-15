@@ -12,7 +12,8 @@ It's just that simple!
 
 If you haven't got Package Control installed (seriously, go install it!) you will need to make a clone of this repository into your packages folder, like so:
 
-    git clone https://github.com/zfkun/sublime-kissy-snippets.git KISSY-Snippets
+	cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    git clone https://github.com/zfkun/sublime-kissy-snippets.git KISSY
 
 
 [sublime]: http://www.sublimetext.com/
