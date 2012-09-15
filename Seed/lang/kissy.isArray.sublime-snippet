@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KISSY.isArray(${1:obj});$0]]></content>
-	<tabTrigger>kissy.isArray</tabTrigger>
-	<description>KISSY.isArray(obj)</description>
-	<scope>source.js</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KISSY.globalEval(${1:code});]]></content>
-	<tabTrigger>kissy.globalEval</tabTrigger>
-	<description>KISSY.globalEval(code)</description>
-	<scope>source.js</scope>
-</snippet>

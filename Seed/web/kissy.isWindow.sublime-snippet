@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KISSY.isWindow(${1:obj});]]></content>
-	<tabTrigger>kissy.isWindow</tabTrigger>
-	<description>KISSY.isWindow(obj)</description>
-	<scope>source.js</scope>
-</snippet>

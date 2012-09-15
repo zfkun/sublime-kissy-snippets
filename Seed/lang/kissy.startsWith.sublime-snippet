@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KISSY.startsWith(${1:str}${2:, ${3:prefix}});$0]]></content>
-	<tabTrigger>kissy.startsWith</tabTrigger>
-	<description>KISSY.startsWith(str,prefix)</description>
-	<scope>source.js</scope>
-</snippet>

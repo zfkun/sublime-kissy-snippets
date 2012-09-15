@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[upload(${1:url}, ${2:form}${3:, ${4:data}${5:, ${6:callback}${7:, ${8:dataType}}}})$0]]></content>
+	<tabTrigger>upload</tabTrigger>
+	<description>KISSY.io.upload(url,form[,data,fn,dataType])</description>
+	<scope>source.js</scope>
+</snippet>

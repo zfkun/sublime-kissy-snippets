@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:${2:KISSY}.${3:UA}}.webkit]]></content>
+	<tabTrigger>kissy.ua.webkit</tabTrigger>
+	<description>KISSY.UA.webkit</description>
+	<scope>source.js</scope>
+</snippet>

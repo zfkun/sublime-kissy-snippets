@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KISSY.now();$0]]></content>
-	<tabTrigger>kissy.now</tabTrigger>
-	<description>KISSY.now()</description>
-	<scope>source.js</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[makeArray(${1:obj})$0]]></content>
+	<tabTrigger>makeArray</tabTrigger>
+	<description>KISSY.makeArray(obj)</description>
+	<scope>source.js</scope>
+</snippet>

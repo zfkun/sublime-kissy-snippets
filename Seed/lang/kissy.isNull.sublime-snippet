@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KISSY.isNull(${1:obj});$0]]></content>
-	<tabTrigger>kissy.isNull</tabTrigger>
-	<description>KISSY.isNull(obj)</description>
-	<scope>source.js</scope>
-</snippet>

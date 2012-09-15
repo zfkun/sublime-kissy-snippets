@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KISSY.lastIndexof(${1:value}, ${2:array});$0]]></content>
-	<tabTrigger>kissy.lastIndexof</tabTrigger>
-	<description>KISSY.lastIndexof(val,arr)</description>
-	<scope>source.js</scope>
-</snippet>

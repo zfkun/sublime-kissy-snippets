@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getStyle(${1:'url'}${2:, ${3:function(){\}}${4:, ${5:charset}}})$0]]></content>
+	<tabTrigger>getStyle</tabTrigger>
+	<description>KISSY.getStyle(url,success,charset)</description>
+	<scope>source.js</scope>
+</snippet>

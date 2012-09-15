@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KISSY.isNumber(${1:obj});$0]]></content>
-	<tabTrigger>kissy.isNumber</tabTrigger>
-	<description>KISSY.isNumber(obj)</description>
-	<scope>source.js</scope>
-</snippet>
