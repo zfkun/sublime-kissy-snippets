@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[css(${1:selector}, ${2:name})$0]]></content>
-	<tabTrigger>css</tabTrigger>
-	<description>KISSY.DOM.css(selector,name)</description>
-	<scope>source.js</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[create(${1:html}${2:, ${3:{\}}${4:, ${5:document}}})$0]]></content>
-	<tabTrigger>create</tabTrigger>
-	<description>KISSY.DOM.create(html[,props={},ownerDoc=document])</description>
-	<scope>source.js</scope>
-</snippet>

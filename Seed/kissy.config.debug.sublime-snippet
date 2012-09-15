@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:KISSY.Config}.debug]]></content>
-	<tabTrigger>kissy.config.debug</tabTrigger>
-	<description>KISSY.Config.debug</description>
-	<scope>source.js</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[extend(${2:receiver}, ${3:supplier}${4:, ${5:prototypes}${6:, ${7:statics}}});$0]]></content>
-	<tabTrigger>extend</tabTrigger>
-	<description>KISSY.extend(r,s[,px,sx])</description>
-	<scope>source.js</scope>
-</snippet>

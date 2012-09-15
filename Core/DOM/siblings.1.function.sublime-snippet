@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[siblings(${1:selector}${2:, ${3:function(${4:node}){
-    ${5:return true;}
-\}}})$0]]></content>
-	<tabTrigger>siblings</tabTrigger>
-	<description>KISSY.DOM.siblings(selector[,function])</description>
-	<scope>source.js</scope>
-</snippet>

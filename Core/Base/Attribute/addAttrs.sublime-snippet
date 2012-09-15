@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addAttrs(${1:attrConfigs}, ${2:values})$0]]></content>
-	<tabTrigger>addAttrs</tabTrigger>
-	<description>KISSY.Base.Attribute.addAttrs(attrConfigs,values)</description>
-	<scope>source.js</scope>
-</snippet>

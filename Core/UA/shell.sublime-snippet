@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:${2:KISSY}.${3:UA}}.shell]]></content>
-	<tabTrigger>kissy.ua.shell</tabTrigger>
-	<description>KISSY.UA.shell</description>
-	<scope>source.js</scope>
-</snippet>

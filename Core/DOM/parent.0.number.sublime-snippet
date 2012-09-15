@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[parent(${1:selector}${2:, ${3:1}})$0]]></content>
-	<tabTrigger>parent</tabTrigger>
-	<description>KISSY.DOM.parent(selector[,number])</description>
-	<scope>source.js</scope>
-</snippet>

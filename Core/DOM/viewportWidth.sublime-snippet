@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[viewportWidth()$0]]></content>
-	<tabTrigger>viewportWidth</tabTrigger>
-	<description>KISSY.DOM.viewportWidth()</description>
-	<scope>source.js</scope>
-</snippet>

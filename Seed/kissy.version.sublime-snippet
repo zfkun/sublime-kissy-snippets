@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:KISSY}.version$0]]></content>
-	<tabTrigger>kissy.version</tabTrigger>
-	<description>KISSY.version</description>
-	<scope>source.js</scope>
-</snippet>

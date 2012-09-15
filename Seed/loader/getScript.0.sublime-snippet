@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[getScript(${1:'url'}${2:, ${3:function(){\}}${4:, ${5:charset}}})$0
-]]></content>
-	<tabTrigger>getScript</tabTrigger>
-	<description>KISSY.getScript(url,success,charset)</description>
-	<scope>source.js</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isNullOrUndefined(${1:obj})$0]]></content>
-	<tabTrigger>isNullOrUndefined</tabTrigger>
-	<description>KISSY.isNullOrUndefined(obj)</description>
-	<scope>source.js</scope>
-</snippet>

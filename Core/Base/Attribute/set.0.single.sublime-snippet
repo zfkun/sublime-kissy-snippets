@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[set(${1:name}, ${2:value}, ${3:{ ${4:silent: ${5:false}} \}})$0]]></content>
-	<tabTrigger>set</tabTrigger>
-	<description>KISSY.Base.Attribute.set(name,value,opts)</description>
-	<scope>source.js</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[end()$0]]></content>
-	<tabTrigger>end</tabTrigger>
-	<description>KISSY.Node.end()</description>
-	<scope>source.js</scope>
-</snippet>

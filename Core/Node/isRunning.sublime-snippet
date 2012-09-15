@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isRunning()$0]]></content>
-	<tabTrigger>isRunning</tabTrigger>
-	<description>KISSY.Node.isRunning()</description>
-	<scope>source.js</scope>
-</snippet>

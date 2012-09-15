@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[viewportHeight()$0]]></content>
-	<tabTrigger>viewportHeight</tabTrigger>
-	<description>KISSY.DOM.viewportHeight()</description>
-	<scope>source.js</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isPlainObject(${1:obj})$0]]></content>
-	<tabTrigger>isPlainObject</tabTrigger>
-	<description>KISSY.isPlainObject(obj)</description>
-	<scope>source.js</scope>
-</snippet>

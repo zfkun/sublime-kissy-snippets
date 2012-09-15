@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isImmediatePropagationStopped$0]]></content>
-	<tabTrigger>isImmediatePropagationStopped</tabTrigger>
-	<description>KISSY.EventObject.isImmediatePropagationStopped</description>
-	<scope>source.js</scope>
-</snippet>
