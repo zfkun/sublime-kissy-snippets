@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[run()$0]]></content>
-	<tabTrigger>run</tabTrigger>
-	<description>KISSY.Anim.run()</description>
-	<scope>source.js</scope>
-</snippet>

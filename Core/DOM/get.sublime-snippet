@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[get(${1:selector}${2:, ${3:document}})$0]]></content>
-	<tabTrigger>get</tabTrigger>
-	<description>KISSY.DOM.get(selector[,context=document])</description>
-	<scope>source.js</scope>
-</snippet>

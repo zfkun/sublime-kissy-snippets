@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[next(${1:selector}${2:, ${3:function(${4:node}){
-    ${5:return true;}
-\}}})$0]]></content>
-	<tabTrigger>next</tabTrigger>
-	<description>KISSY.DOM.next(selector[,function])</description>
-	<scope>source.js</scope>
-</snippet>

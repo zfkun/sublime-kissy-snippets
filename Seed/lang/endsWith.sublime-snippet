@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[endsWith(${1:str}${2:, ${3:suffix}})$0]]></content>
-	<tabTrigger>endsWith</tabTrigger>
-	<description>KISSY.endsWith(str,suffix)</description>
-	<scope>source.js</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[filter(${1:selector}, ${2:'${3:string}'}${4:, ${5:document}})$0]]></content>
-	<tabTrigger>filter</tabTrigger>
-	<description>KISSY.DOM.filter(selector,string[,context=document])</description>
-	<scope>source.js</scope>
-</snippet>

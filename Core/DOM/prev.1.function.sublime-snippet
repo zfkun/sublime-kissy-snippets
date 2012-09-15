@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[prev(${1:selector}${2:, ${3:function(${4:node}){
-    ${5:return true;}
-\}}})$0]]></content>
-	<tabTrigger>prev</tabTrigger>
-	<description>KISSY.DOM.prev(selector[,function])</description>
-	<scope>source.js</scope>
-</snippet>

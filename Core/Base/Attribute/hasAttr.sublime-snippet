@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hasAttr(${1:name})$0]]></content>
-	<tabTrigger>hasAttr</tabTrigger>
-	<description>KISSY.Base.Attribute.hasAttr(name)</description>
-	<scope>source.js</scope>
-</snippet>

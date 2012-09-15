@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getDOMNodes()$0]]></content>
-	<tabTrigger>getDOMNodes</tabTrigger>
-	<description>KISSY.Node.getDOMNodes()</description>
-	<scope>source.js</scope>
-</snippet>

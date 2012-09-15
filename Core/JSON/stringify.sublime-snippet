@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[stringify(${1:value}${2:, ${3:function/array}${4:, ${5:string/number}}})$0]]></content>
-	<tabTrigger>stringify</tabTrigger>
-	<description>KISSY.JSON.stringify(value[,replacer,space])</description>
-	<scope>source.js</scope>
-</snippet>

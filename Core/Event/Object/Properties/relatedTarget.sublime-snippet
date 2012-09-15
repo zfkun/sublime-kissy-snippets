@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[relatedTarget$0]]></content>
-	<tabTrigger>relatedTarget</tabTrigger>
-	<description>KISSY.EventObject.relatedTarget</description>
-	<scope>source.js</scope>
-</snippet>

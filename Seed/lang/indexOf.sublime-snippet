@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[indexOf(${1:value}, ${2:array})$0]]></content>
-	<tabTrigger>indexOf</tabTrigger>
-	<description>KISSY.indexOf(val,arr)</description>
-	<scope>source.js</scope>
-</snippet>

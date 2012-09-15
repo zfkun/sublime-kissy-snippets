@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:KISSY}.Node$0]]></content>
-	<tabTrigger>kissy.node</tabTrigger>
-	<description>KISSY.Node</description>
-	<scope>source.js</scope>
-</snippet>

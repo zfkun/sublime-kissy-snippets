@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeTarget(${1:target})$0]]></content>
-	<tabTrigger>removeTarget</tabTrigger>
-	<description>KISSY.EventTarget.removeTarget(target)</description>
-	<scope>source.js</scope>
-</snippet>

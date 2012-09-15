@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[jsonp(${1:url}${2:, ${3:callback}})$0]]></content>
-	<tabTrigger>jsonp</tabTrigger>
-	<description>KISSY.io.jsonp(url[,fn])</description>
-	<scope>source.js</scope>
-</snippet>

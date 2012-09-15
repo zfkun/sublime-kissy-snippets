@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isRegExp(${1:obj})$0]]></content>
-	<tabTrigger>isRegExp</tabTrigger>
-	<description>KISSY.isRegExp(obj)</description>
-	<scope>source.js</scope>
-</snippet>

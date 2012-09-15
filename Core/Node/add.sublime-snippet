@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[add(${1:selector}${2:, ${3:context}})$0]]></content>
-	<tabTrigger>add</tabTrigger>
-	<description>KISSY.Node.add(selector[,context])</description>
-	<scope>source.js</scope>
-</snippet>

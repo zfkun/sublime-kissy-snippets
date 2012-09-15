@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:KISSY}.Ajax$0]]></content>
-	<tabTrigger>kissy.ajax</tabTrigger>
-	<description>KISSY.Ajax</description>
-	<scope>source.js</scope>
-</snippet>

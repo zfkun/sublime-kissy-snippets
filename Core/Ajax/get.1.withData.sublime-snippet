@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[get(${1:url}${2:, ${3:data}${4:, ${5:callback}${6:, ${7:dataType}}}})$0]]></content>
-	<tabTrigger>get</tabTrigger>
-	<description>KISSY.io.get(url[,data,fn,dataType])</description>
-	<scope>source.js</scope>
-</snippet>

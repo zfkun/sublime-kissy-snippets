@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isString(${1:obj})$0]]></content>
-	<tabTrigger>isString</tabTrigger>
-	<description>KISSY.isString(obj)</description>
-	<scope>source.js</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[replaceClass(${1:selector}, ${2:oldClassName}, ${3:newClassName})$0]]></content>
-	<tabTrigger>replaceClass</tabTrigger>
-	<description>KISSY.DOM.replaceClass(selector,oldClassName,newClassName)</description>
-	<scope>source.js</scope>
-</snippet>

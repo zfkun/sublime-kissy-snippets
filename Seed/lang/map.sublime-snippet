@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[map(${1:array}, ${2:function(${3:item}${4:, ${5:index}}${6:, ${7:array}}) {
-	${10:return ${11:something};}
-\}}${8:, ${9:null}})$0]]></content>
-	<tabTrigger>map</tabTrigger>
-	<description>KISSY.map(arr,fn[,context])</description>
-	<scope>source.js</scope>
-</snippet>

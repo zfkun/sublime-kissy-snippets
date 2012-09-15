@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[preventDefault()$0]]></content>
-	<tabTrigger>preventDefault</tabTrigger>
-	<description>KISSY.EventObject.preventDefault()</description>
-	<scope>source.js</scope>
-</snippet>

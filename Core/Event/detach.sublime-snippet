@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[detach(${1:selector}${2:, ${3:type}${4:, ${5:function(${6:ev}){\}}${7:, ${8:null}}}})$0]]></content>
-	<tabTrigger>detach</tabTrigger>
-	<description>KISSY.Event.detach(selector[,type,fn,scope])</description>
-	<scope>source.js</scope>
-</snippet>

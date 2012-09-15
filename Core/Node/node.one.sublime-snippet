@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[one(${1:args})$0]]></content>
-	<tabTrigger>one</tabTrigger>
-	<description>KISSY.Node.one(args...)</description>
-	<scope>source.js</scope>
-</snippet>

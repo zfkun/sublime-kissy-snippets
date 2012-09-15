@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:${2:KISSY}.${3:UA}}.opera]]></content>
-	<tabTrigger>kissy.ua.opera</tabTrigger>
-	<description>KISSY.UA.opera</description>
-	<scope>source.js</scope>
-</snippet>
