@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bounceIn(${1:time})$0]]></content>
+	<tabTrigger>bounceIn</tabTrigger>
+	<description>KISSY.Easing.bounceIn(time)</description>
+	<scope>source.js</scope>
+</snippet>

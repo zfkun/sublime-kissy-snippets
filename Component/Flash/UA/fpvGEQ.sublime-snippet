@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fpv(${1:string/array/number}${2:, ${3:false}})$0]]></content>
+	<tabTrigger>fpvGEQ</tabTrigger>
+	<description>KISSY.UA.fpvGEQ(ver[,force])</description>
+	<scope>source.js</scope>
+</snippet>

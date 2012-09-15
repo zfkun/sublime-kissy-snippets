@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[addStatement(${1:{
+    ${2:'key'}: {
+    	start: ${3:startString},
+    	end: ${4:endString}
+    \}
+\}})$0]]></content>
+	<tabTrigger>addStatement</tabTrigger>
+	<description>KISSY.Template.addStatement(config)</description>
+	<scope>source.js</scope>
+</snippet>

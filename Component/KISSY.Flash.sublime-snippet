@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:KISSY}.Flash$0]]></content>
+	<tabTrigger>kissy.flash</tabTrigger>
+	<description>KISSY.Flash</description>
+	<scope>source.js</scope>
+</snippet>

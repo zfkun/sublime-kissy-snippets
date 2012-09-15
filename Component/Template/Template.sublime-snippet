@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Template}(${2:'${3:template string}'})$0]]></content>
+	<tabTrigger>template</tabTrigger>
+	<description>KISSY.Template(string)</description>
+	<scope>source.js</scope>
+</snippet>
