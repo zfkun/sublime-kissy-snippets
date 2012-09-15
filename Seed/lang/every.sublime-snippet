@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[every(${1:array}, ${2:function(${3:val}${4:, ${5:index}}){
+    ${6:return true;}
+\}})$0
+]]></content>
+	<tabTrigger>every</tabTrigger>
+	<description>KISSY.every(arr,fn[,context])</description>
+	<scope>source.js</scope>
+</snippet>

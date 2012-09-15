@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[some(${1:array}, ${2:function(${3:val}${4:, ${5:index}}){
+    ${6:return false;}
+\}})$0
+]]></content>
+	<tabTrigger>some</tabTrigger>
+	<description>KISSY.some(arr,fn[,context])</description>
+	<scope>source.js</scope>
+</snippet>

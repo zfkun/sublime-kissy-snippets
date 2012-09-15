@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:${2:KISSY}.${3:UA}}.presto]]></content>
+	<tabTrigger>kissy.ua.presto</tabTrigger>
+	<description>KISSY.UA.presto</description>
+	<scope>source.js</scope>
+</snippet>

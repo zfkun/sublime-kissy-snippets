@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[html(${1:selector}, ${2:html}${3:, ${4:false}${5:, ${6:function(${7:node}){
+    ${8:return true;}
+\}}}})$0]]></content>
+	<tabTrigger>html</tabTrigger>
+	<description>KISSY.DOM.html(selector,html[,loadScripts=false,callback=undefined])</description>
+	<scope>source.js</scope>
+</snippet>

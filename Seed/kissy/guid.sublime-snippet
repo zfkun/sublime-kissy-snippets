@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[guid(${1:'prefix'})$0]]></content>
+	<tabTrigger>guid</tabTrigger>
+	<description>KISSY.guid(prefix)</description>
+	<scope>source.js</scope>
+</snippet>

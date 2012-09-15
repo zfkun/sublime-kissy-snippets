@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[config(${1:{
+    packages: ${2:[
+        ${3:{
+            ${4:name: ${5:'package name'},}
+            ${6:tag: ${7:'xxx'},}
+            ${8:path: ${9:'http://cdn/biz/'},}
+            ${10:charset: ${11:'utf-8'}}
+        \}}
+    ]}${12:,
+    map: ${13:[
+        ${14:// your rewrite map here}
+    ]}}
+\}});$0
+]]></content>
+	<tabTrigger>config</tabTrigger>
+	<description>KISSY.config(cfg)</description>
+	<scope>source.js</scope>
+</snippet>

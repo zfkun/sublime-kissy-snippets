@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[which$0]]></content>
+	<tabTrigger>which</tabTrigger>
+	<description>KISSY.EventObject.which</description>
+	<scope>source.js</scope>
+</snippet>
