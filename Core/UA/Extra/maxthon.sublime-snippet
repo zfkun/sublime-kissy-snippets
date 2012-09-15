@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:${2:KISSY}.${3:UA}}.maxthon]]></content>
+	<tabTrigger>kissy.ua.maxthon</tabTrigger>
+	<description>KISSY.UA.maxthon</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[reduce(${1:array}, ${2:function(${3:previousValue}${4:, ${5:currentValue}}${6:, ${7:index}${8:, ${9:array}}}) {
+	${10:return ${11:result};}
+\}})$0]]></content>
+	<tabTrigger>reduce</tabTrigger>
+	<description>KISSY.reduce(array,fn[,initVal])</description>
+	<scope>source.js</scope>
+</snippet>

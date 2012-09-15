@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[getScript(${1:'url'}, {
+
+    ${2:charset: ${3:'utf-8'},}
+
+    ${4:timeout: ${5:5},}
+
+    ${6:success: ${7:function() {\}},}
+
+    ${8:error: ${9:function() {\}}}
+
+})$0]]></content>
+	<tabTrigger>getScript</tabTrigger>
+	<description>KISSY.getScript(url,config)</description>
+	<scope>source.js</scope>
+</snippet>

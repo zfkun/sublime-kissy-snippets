@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[augment(${2:receiver}, ${3:supplier1});$0]]></content>
+	<tabTrigger>augment</tabTrigger>
+	<description>KISSY.augment(r,s1[,...])</description>
+	<scope>source.js</scope>
+</snippet>

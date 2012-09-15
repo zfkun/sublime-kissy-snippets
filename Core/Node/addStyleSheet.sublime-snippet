@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addStyleSheet(${1:cssText})$0]]></content>
+	<tabTrigger>addStyleSheet</tabTrigger>
+	<description>KISSY.Node.addStyleSheet([cssText])</description>
+	<scope>source.js</scope>
+</snippet>

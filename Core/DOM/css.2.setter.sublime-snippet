@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[css(${1:selector}, ${2:{ ${3:k1}: ${4:v1}$5 \}})$0]]></content>
+	<tabTrigger>css</tabTrigger>
+	<description>KISSY.DOM.css(selector,kv)</description>
+	<scope>source.js</scope>
+</snippet>
