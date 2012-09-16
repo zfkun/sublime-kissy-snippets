@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeData(${3:name})$0]]></content>
+	<tabTrigger>removeData</tabTrigger>
+	<description>KISSY.Node.removeData([name])</description>
+	<scope>source.js</scope>
+</snippet>

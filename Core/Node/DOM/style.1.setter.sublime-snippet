@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[style(${1:name}, ${2:value})$0]]></content>
+	<tabTrigger>style</tabTrigger>
+	<description>KISSY.Node.style(name, value)</description>
+	<scope>source.js</scope>
+</snippet>

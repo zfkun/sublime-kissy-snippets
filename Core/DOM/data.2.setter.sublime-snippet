@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[data(${1:selector}, ${2:{ ${3:k1}: ${4:v1}$5 \}})$0]]></content>
+	<content><![CDATA[data(${1:selector}, ${2:{ ${3:k1}: ${4:v1} \}})$0]]></content>
 	<tabTrigger>data</tabTrigger>
 	<description>KISSY.DOM.data(selector,kv)</description>
 	<scope>source.js</scope>

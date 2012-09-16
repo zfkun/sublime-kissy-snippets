@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scrollIntoView(${1:${2:window}${3:, ${4:true}${5:, ${6:true}}}})$0]]></content>
+	<tabTrigger>scrollIntoView</tabTrigger>
+	<description>KISSY.Node.scrollIntoView([container=window,top=true,hscroll=true])</description>
+	<scope>source.js</scope>
+</snippet>

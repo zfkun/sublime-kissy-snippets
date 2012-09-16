@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[children(${1:function(${2:node}){
+    ${3:return true;}
+\}})$0]]></content>
+	<tabTrigger>children</tabTrigger>
+	<description>KISSY.Node.children([function])</description>
+	<scope>source.js</scope>
+</snippet>

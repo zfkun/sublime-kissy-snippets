@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[offset(${1:selector}, ${2:{ left: ${3:0}, top: ${4:0} \}})$0]]></content>
+	<content><![CDATA[offset(${1:selector}${2:, ${3:{ left: ${4:0}, top: ${5:0} \}}})$0]]></content>
 	<tabTrigger>offset</tabTrigger>
 	<description>KISSY.DOM.offset(selector,value)</description>
 	<scope>source.js</scope>

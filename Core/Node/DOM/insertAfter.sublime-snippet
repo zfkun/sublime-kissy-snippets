@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[insertAfter(${1:refNode})$0]]></content>
+	<tabTrigger>insertAfter</tabTrigger>
+	<description>KISSY.Node.insertAfter(refNode)</description>
+	<scope>source.js</scope>
+</snippet>
